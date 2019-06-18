@@ -1,0 +1,2 @@
+# atividada_loja
+loja 
